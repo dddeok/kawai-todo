@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "kawai-todo",
+    "name": "Kawai To Do",
+    "description": "Kawi To Do app with React Native" ,
     "slug": "kawai-todo",
     "privacy": "public",
     "sdkVersion": "32.0.0",
